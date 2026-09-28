@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Serilog" />
     <ProjectReference Include="..\Wondarr.Core\Wondarr.Core.csproj" />
   </ItemGroup>
 
